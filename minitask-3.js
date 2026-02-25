@@ -1,6 +1,6 @@
 let uang = 125000;
 let kembalian = "";
-let i = 1;
+
 while(uang>=50000){
     kembalian += "50000 ";
     uang = uang - 50000;
